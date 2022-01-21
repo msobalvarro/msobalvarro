@@ -1,4 +1,26 @@
-### Hi there 👋
+# Samuel Sobalvarro `Full Stack Javascript` 🇳🇮
+
+### Hi there developers! 👋
+
+
+
+![Presentation](https://github.com/msobalvarro/msobalvarro/blob/master/Samuel%20Sobalvarro.png)
+
+👨‍💻 Web Developer, Full Stack JavaScript Developer
+
+🙋‍♂️ learning to lead
+
+👨🏼‍💼 I really like web development
+
+🌱 I’m currently learning english language
+
+💬 Ask me about cryto cryptocurrencies
+
+🇳🇮 Remote work from Nicaragua
+
+![bitmap](https://github.com/msobalvarro/msobalvarro/blob/master/github-contribution-grid-snake.svg)
+
+[![linkedin](https://findicons.com/files/icons/947/mini_social_networking/64/linkedin.png)](https://www.linkedin.com/in/samuel-sobalvarro-127227160/) [![Foo](https://icons.iconarchive.com/icons/dakirby309/simply-styled/64/Gmail-icon.png)](mailto:dev.msobalvarro@gmail.com)
 
 <!--
 **msobalvarro/msobalvarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
