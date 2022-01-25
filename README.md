@@ -18,6 +18,13 @@
 
 🇳🇮 Remote work from Nicaragua
 
+<details>
+  <summary>:rocket: GitHub status</summary>
+
+  [![msobalvarro GitHub](https://github-readme-stats.vercel.app/api?username=msobalvarro)](https://github.com/msobalvarro/github-readme-stats)
+
+</details>
+
 ![bitmap](https://github.com/msobalvarro/msobalvarro/blob/master/github-contribution-grid-snake.svg)
 
 [![linkedin](https://findicons.com/files/icons/947/mini_social_networking/64/linkedin.png)](https://www.linkedin.com/in/samuel-sobalvarro-127227160/) [![Foo](https://icons.iconarchive.com/icons/dakirby309/simply-styled/64/Gmail-icon.png)](mailto:dev.msobalvarro@gmail.com)
