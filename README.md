@@ -29,6 +29,8 @@
 
 [![linkedin](https://findicons.com/files/icons/947/mini_social_networking/64/linkedin.png)](https://www.linkedin.com/in/samuel-sobalvarro-127227160/) [![Foo](https://icons.iconarchive.com/icons/dakirby309/simply-styled/64/Gmail-icon.png)](mailto:dev.msobalvarro@gmail.com)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msobalvarro&show_icons=true&theme=merko&langs_count=8&layout=compact)
+
 <!--
 **msobalvarro/msobalvarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
